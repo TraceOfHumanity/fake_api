@@ -1,0 +1,21 @@
+{
+  "compilerOptions": {
+    "rootDir": "./source",
+    "outDir": "./dist",
+
+    "module": "nodenext",
+    "target": "esnext",
+
+    "sourceMap": true,
+
+    "noUncheckedIndexedAccess": true,
+    "exactOptionalPropertyTypes": true,
+
+    "strict": true,
+    "verbatimModuleSyntax": true,
+    "isolatedModules": true,
+    "noUncheckedSideEffectImports": true,
+    "moduleDetection": "force",
+    "skipLibCheck": true
+  }
+}
