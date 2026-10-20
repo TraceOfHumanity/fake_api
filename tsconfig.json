@@ -5,6 +5,7 @@
 
     "module": "nodenext",
     "target": "esnext",
+    "rewriteRelativeImportExtensions": true,
 
     "sourceMap": true,
 
